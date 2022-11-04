@@ -1,0 +1,5 @@
+Steps Git/GitHub
+	1. Create paste
+	2. Open paste
+	3. Click right botton "choose option Git Bash Here" (Git Bash is a terminal extended for otimization the use Git)
+	4. Clonar Git: git clone https://github.com/RicardoPalheiros/dio-desafio-github.git
